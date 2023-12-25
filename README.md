@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chamiliabeythilaka&label=Profile%20views&color=0e75b6&style=flat" alt="chamiliabeythilaka" /> </p>
 
 - 🎓 I’m currently learning at **Faculty of Information Technology, University of Moratuwa**
-- 
+  
 - 🌱 I’m currently learning **ReactJs,.NET, Mysql, Mssql ,Java**
 
 - 📫 How to reach me **chamiliabeythilaka@gmail.com**
