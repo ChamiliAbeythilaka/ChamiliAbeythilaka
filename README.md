@@ -17,7 +17,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/www.linkedin.com/in/chamili-abeythilaka-923793268" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/chamili-abeythilaka-923793268" height="30" width="40" /></a>
 <a href="https://medium.com/@chamiliabeythilaka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@chamiliabeythilaka" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/chamiliabeythil1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/chamiliabeythil1" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/profile/chamiliabeythil1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="profile/chamiliabeythil1" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/@chamiliabeythil1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@chamiliabeythil1" height="30" width="40" /></a>
 </p>
 
