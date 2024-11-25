@@ -9,8 +9,6 @@
 
 - 📫 How to reach me **chamiliabeythilaka@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/folders/184iw0nZUMWO_uuxfMRtpMtZ-w-naQpRb?usp=drive_link](https://drive.google.com/drive/folders/184iw0nZUMWO_uuxfMRtpMtZ-w-naQpRb?usp=drive_link)
-
 - ⚡ Fun fact **Reading & Travelling**
 
 <h3 align="left">Connect with me:</h3>
