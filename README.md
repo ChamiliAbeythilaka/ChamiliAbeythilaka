@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chamiliabeythilaka&label=Profile%20views&color=0e75b6&style=flat" alt="chamiliabeythilaka" /> </p>
 
-- 🎓 I’m currently learning at **Faculty of Information Technology & Management, University of Moratuwa.**
+- 🎓 I’m currently learning at **Faculty of Information Technology , University of Moratuwa.**
 
-- 🌱 I’m currently learning **Selenium, Playwright, TestNG, Mysql, Mssql, Java**
+- 🌱 I’m currently learning **Selenium, Playwright, Cypress, Jmeter, TestNG, Mysql, Mssql, Java**
 
 - 📫 How to reach me **chamiliabeythilaka@gmail.com**
 
