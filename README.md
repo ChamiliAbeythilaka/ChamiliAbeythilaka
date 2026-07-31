@@ -1,10 +1,13 @@
 ## Hi there👋,I'm Chamili Abeythilaka
 
-<div align=center>
+<div align="center">
   
-  <img style="margin-left:auto; margin-right:auto;" src="assets/profile-banner.png" width="200" height="200"/>
-  Software Quality Assurance Engineer | Manual & Automation Testing
-  
+  <img src="assets/profile-banner.png" width="200" height="200"/>
+
+  <h5 style="margin-top: 5px;">
+    Software Quality Assurance Engineer | Manual & Automation Testing
+  </h5>
+
 </div>
 
 
