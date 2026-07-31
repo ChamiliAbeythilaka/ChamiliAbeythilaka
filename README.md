@@ -1,4 +1,5 @@
-<h3 align="left">Hi there👋,Chamili Here</h3>
+##Hi there👋,Chamili Here
+
 <h3 align="center">Passionate, hardworking, and self-motivated IT undergraduate with desire to embark on a transformative journey within the Information Technology.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chamiliabeythilaka&label=Profile%20views&color=0e75b6&style=flat" alt="chamiliabeythilaka" /> </p>
