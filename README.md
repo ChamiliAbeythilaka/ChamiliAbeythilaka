@@ -17,7 +17,7 @@ ISTQB - CTFL® Certified | Manual Testing | Automation Testing | Selenium | Play
 
 ## 👩‍💻 About Me
 
-Passionate Software Quality Assurance Engineer with 2 years of industry experience in Manual Testing, Automation Testing, and API Testing.| Exploring AI-driven testing, automation frameworks, and quality engineering practices
+Passionate Software Quality Assurance Engineer with 2 years of industry experience in Manual Testing, Automation Testing, and API Testing. Exploring AI-driven testing, automation frameworks, and quality engineering practices
 
 </div>
   
