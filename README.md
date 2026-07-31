@@ -36,7 +36,7 @@ Manual Testing | Automation Testing | Selenium | Playwright | TestNG | JMeter | 
  [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=facebook&logoColor=white)](YOUR_FACEBOOK_URL)
  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](YOUR_INSTAGRAM_URL)
  [![Email](https://img.shields.io/badge/Email-EA4335?logo=gmail&logoColor=white)](mailto:chamiliabeythilaka@gmail.com)
- [![Medium](https://img.shields.io/badge/Medium-000000?logo=medium&logoColor=white)](https://medium.com/@chamiliabeythilaka)
+ [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@chamiliabeythilaka)
  
 </div> 
 
