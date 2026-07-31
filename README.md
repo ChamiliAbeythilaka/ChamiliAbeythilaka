@@ -8,7 +8,7 @@
 <b>Software Quality Assurance Engineer</b>
 <br>
 <small>
-Manual Testing | Automation Testing | Selenium | Playwright | TestNG | JMeter | Postman | API Testing
+ISTQB - CTFL® Certified | Manual Testing | Automation Testing | Selenium | Playwright | TestNG | JMeter | Postman | API Testing
 </small>
 
 </div>
@@ -17,7 +17,7 @@ Manual Testing | Automation Testing | Selenium | Playwright | TestNG | JMeter | 
 
 ## 👩‍💻 About Me
 
-Passionate Software Quality Assurance Engineer with 2+ years of industry experience in Manual Testing, Automation Testing, and API Testing.|ISTQB Certified Tester – Foundation Level (CTFL) | Graduate from University of Moratuwa - Faculty of IT | Exploring AI-driven testing, automation frameworks, and quality engineering practices
+Passionate Software Quality Assurance Engineer with 2 years of industry experience in Manual Testing, Automation Testing, and API Testing.| Graduate from University of Moratuwa - Faculty of IT | Exploring AI-driven testing, automation frameworks, and quality engineering practices
 
 </div>
   
@@ -35,7 +35,3 @@ Passionate Software Quality Assurance Engineer with 2+ years of industry experie
  [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@chamiliabeythilaka)
  
 </div> 
-
-
-
-
