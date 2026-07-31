@@ -1,13 +1,13 @@
 ## Hi there👋,I'm Chamili Abeythilaka
 
-
 <div align=center>
   
   <img style="margin-left:auto; margin-right:auto;" src="assets/profile-banner.png" width="200" height="200"/>
+  <h5 align="center">Software Quality Assurance Engineer | Manual & Automation Testing</h5>
   
 </div>
 
-<h3 align="center">Software Quality Assurance Engineer | Manual & Automation Testing</h3>
+
   
 
 
@@ -20,6 +20,7 @@
 - ⚡ Fun fact **Reading & Travelling**
 
 <h3 align="left">Connect with me:</h3>
+
 <p align="left">
 <a href="https://linkedin.com/in/chamili-abeythilaka-923793268/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chamili-abeythilaka-923793268/" height="30" width="40" /></a>
 <a href="https://medium.com/@chamiliabeythilaka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@chamiliabeythilaka" height="30" width="40" /></a>
@@ -31,6 +32,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ChamiliAbeythilaka&show_icons=true&locale=en&layout=compact" alt="ChamiliAbeythilaka" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ChamiliAbeythilaka&show_icons=true&locale=en" alt="ChamiliAbeythilaka" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ChamiliAbeythilaka&" alt="ChamiliAbeythilaka" /></p>
+
+
