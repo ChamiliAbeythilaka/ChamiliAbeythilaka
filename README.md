@@ -5,7 +5,7 @@
 
 <div align=center>
   
-  <img style="margin-left:auto; margin-right:auto;" src="assets/profile-banner.png" width="200" height="200"/>
+  <img style="margin-left:auto; margin-right:auto;" src="assets/profilebanner.png" width="200" height="200"/>
   
 </div>
   
