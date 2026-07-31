@@ -3,7 +3,7 @@
 <div align=center>
   
   <img style="margin-left:auto; margin-right:auto;" src="assets/profile-banner.png" width="200" height="200"/>
-  <h5 align="center">Software Quality Assurance Engineer | Manual & Automation Testing</h5>
+  Software Quality Assurance Engineer | Manual & Automation Testing
   
 </div>
 
