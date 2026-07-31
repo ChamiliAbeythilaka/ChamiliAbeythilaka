@@ -6,10 +6,10 @@
 
 <br>
 <b>Software Quality Assurance Engineer</b>
-
-<p>
-Manual Testing | Automation Testing | Selenium | Playwright | API Testing
-</p>
+<br>
+<small>
+Manual Testing | Automation Testing | Selenium | Playwright | TestNG | JMeter | Postman | API Testing
+</small>
 
 </div>
 
