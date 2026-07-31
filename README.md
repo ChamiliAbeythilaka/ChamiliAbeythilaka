@@ -13,7 +13,11 @@ Manual Testing | Automation Testing | Selenium | Playwright | TestNG | JMeter | 
 
 </div>
 
+<div align="center">
+
 ## 👩‍💻 About Me
+
+</div>
 
 🎓 Graduate from **University of Moratuwa - Faculty of IT**  
 📜 **ISTQB CTFL Certified Software QA Engineer**  
