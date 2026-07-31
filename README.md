@@ -6,6 +6,8 @@
   <img style="margin-left:auto; margin-right:auto;" src="assets/profile-banner.png" width="200" height="200"/>
   
 </div>
+
+<h3 align="center">Software Quality Assurance Engineer | Manual & Automation Testing</h3>
   
 
 
