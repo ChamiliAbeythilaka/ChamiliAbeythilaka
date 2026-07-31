@@ -2,6 +2,14 @@
 
 
 
+
+<div align=center>
+  
+  <img style="margin-left:auto; margin-right:auto;" src="assets/profile-banner.png" width="200" height="200"/>
+  
+</div>
+  
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chamiliabeythilaka&label=Profile%20views&color=0e75b6&style=flat" alt="chamiliabeythilaka" /> </p>
 
 - 🎓 I’m currently learning at **Faculty of Information Technology , University of Moratuwa.**
