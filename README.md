@@ -31,12 +31,12 @@ Manual Testing | Automation Testing | Selenium | Playwright | TestNG | JMeter | 
  ## Connect with me
 
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chamili-abeythilaka/)
- [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/chamiliabeythilaka)
- [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@chamiliabeythilaka)
+ [![GitHub](https://img.shields.io/badge/-GitHub-333?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/chamiliabeythilaka)
  [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/chamiliabeythil1)
  [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=facebook&logoColor=white)](YOUR_FACEBOOK_URL)
  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](YOUR_INSTAGRAM_URL)
  [![Email](https://img.shields.io/badge/Email-EA4335?logo=gmail&logoColor=white)](mailto:chamiliabeythilaka@gmail.com)
+ [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@chamiliabeythilaka)
  
 </div> 
 
