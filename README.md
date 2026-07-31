@@ -17,13 +17,11 @@ Manual Testing | Automation Testing | Selenium | Playwright | TestNG | JMeter | 
 
 ## 👩‍💻 About Me
 
-</div>
+Passionate **Software Quality Assurance Engineer** with **2+ years of industry experience** in Manual Testing, Automation Testing, and API Testing.  
+**ISTQB Certified Tester – Foundation Level (CTFL)** | Graduate from **University of Moratuwa - Faculty of IT**  
+Exploring **AI-driven testing, automation frameworks, and quality engineering practices**
 
-> 🎓 Graduate from **University of Moratuwa - Faculty of IT**  
- 📜 **ISTQB CTFL Certified Software QA Engineer**  
- 🔍 Skilled in **Manual Testing, Automation Testing, and API Testing**  
- 🤖 Exploring **AI-driven testing and quality engineering practices**  
- 🚀 Continuously learning modern testing tools, automation frameworks, and QA practices
+</div>
   
 
 <div align="center">
