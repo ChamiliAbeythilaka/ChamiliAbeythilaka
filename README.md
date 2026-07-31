@@ -5,10 +5,7 @@
 <img src="assets/profile-banner.png" width="200" height="200"/>
 
 <br>
-
-<h3 style="margin: 0;">
-Software Quality Assurance Engineer
-</h3>
+<b>Software Quality Assurance Engineer</b>
 
 <p>
 Manual Testing | Automation Testing | Selenium | Playwright | API Testing
