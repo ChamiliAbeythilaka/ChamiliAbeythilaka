@@ -30,7 +30,7 @@ Manual Testing | Automation Testing | Selenium | Playwright | TestNG | JMeter | 
 
   
 
-<h3 align="left">Connect with me:</h3>
+## Connect with me
 
 <p align="left">
 <a href="https://linkedin.com/in/chamili-abeythilaka-923793268/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chamili-abeythilaka-923793268/" height="30" width="40" /></a>
