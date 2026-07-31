@@ -6,7 +6,9 @@
 
 <br>
 
-<h3>Software Quality Assurance Engineer</h3>
+<h3 style="margin: 0;">
+Software Quality Assurance Engineer
+</h3>
 
 <p>
 Manual Testing | Automation Testing | Selenium | Playwright | API Testing
